@@ -1,3 +1,1 @@
-nxp create-react-app amplifyapp
-cd amplifyapp
-npm start
+npx create-react-app .
